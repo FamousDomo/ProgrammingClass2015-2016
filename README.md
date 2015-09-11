@@ -1,1 +1,4 @@
-# ProgrammingClass2015-2016
+
+name = "Dominic"
+age = 16
+cta = true 
